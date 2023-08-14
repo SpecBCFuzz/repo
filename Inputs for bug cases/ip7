@@ -1,0 +1,1 @@
+((!atfloor) & (F(((call) & (G(!open))))) & (G(((!call) | (G(atfloor))))) & (G(((atfloor) | (X(!open))))))
